@@ -1,0 +1,36 @@
+_repo: The-Evil-Guest_10377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, J. Sheridan Le
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: Today, critics point to the work of Victorian-era horror author J. Sheridan
+  Le Fanu as the pinnacle of suspense writing in the period. With a few subtle turns
+  of phrase, Le Fanu can provoke a response of sheer terror in the minds of readers,
+  working in the same vein that his American contemporary Edgar Allan Poe was able
+  to master. The Evil Guest highlights all of Le Fanu's strengths as a writer, and
+  it's sure to speed the heart of even the most seasoned horror fan.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Evil Guest
+url: http://www.gutenberg.org/ebooks/10377
