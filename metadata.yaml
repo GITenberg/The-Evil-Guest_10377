@@ -1,5 +1,8 @@
 _repo: The-Evil-Guest_10377
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Fanu, Joseph Sheridan
@@ -18,6 +21,8 @@ description: Today, critics point to the work of Victorian-era horror author J. 
   working in the same vein that his American contemporary Edgar Allan Poe was able
   to master. The Evil Guest highlights all of Le Fanu's strengths as a writer, and
   it's sure to speed the heart of even the most seasoned horror fan.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10377#The-Evil-Guest
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
